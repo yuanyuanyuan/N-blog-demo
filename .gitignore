@@ -1,2 +1,7 @@
-/.idea
+config/*
+!config/default.*
+npm-debug.log
 node_modules
+/.idea
+coverage
+logs
